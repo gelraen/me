@@ -1,0 +1,29 @@
+= Random junk
+:sectlinks:
+:sectanchors:
+
+Here I'll be writing some random junk for myself. At some point I may put it
+into more structured document, but most of it is important enough to be written
+down right now.
+
+[[wip]]
+== Things I still need to be reminded of
+
+This is the list of stuff I'm trying to internalize now. If you see me doing
+something that contradicts one of the things written here -- tell me.
+
+* I and only I am responsible and accountable for my actions.
+* People around me are responsible and accountable for their actions.
+* No one is responsible for what I feel.
+* I am not responsible for what other people feel.
+* I am not entitled to time and attention of other people and have no right to
+  demand it.
+* Others are not entitled to my time and attention and I am free to give it or
+  or not at my own discretion.
+* Try to state your feelings and intents as clearly as possible.
+* Avoid trying to affect behaviour of others indirectly, do that only explicitly,
+  so they have a chance to give their consent. If you want someone to do
+  something specific – ask for it.
+* When talking about what you feel do not blame others, ever.
+* Do not look for hidden meaning in what others say. If it's not clear what they
+  mean – ask about it.
